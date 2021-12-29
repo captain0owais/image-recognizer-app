@@ -1,0 +1,49 @@
+body
+{
+    background-color: #ff64ff;
+    background-image: linear-gradient(225deg, #ff64ff 0%, #FF2525 70%);    
+    color:white;
+}
+
+
+
+.heading
+{
+    width:80%;
+    font-size:xx-large;
+}
+
+#camera
+{
+    border-style: ridge;
+    width: 350px;
+    height: 300px;
+}
+
+.name-of-object,#result-object-name,#result-object-accuracy
+{
+    color:lightblue;
+}
+
+
+
+
+.btn-grad {background-image: linear-gradient(to right, #f857a6 0%, #ff5858  51%, #f857a6  100%)}
+.btn-grad {
+   margin: 10px;
+   padding: 15px 45px;
+   text-align: center;
+   text-transform: uppercase;
+   transition: 0.5s;
+   background-size: 200% auto;
+   color: white;            
+   box-shadow: 0 0 20px #eee;
+   border-radius: 10px;
+   display: block;
+ }
+
+ .btn-grad:hover {
+   background-position: right center; /* change the direction of the change here */
+   color: #fff;
+   text-decoration: none;
+ }
