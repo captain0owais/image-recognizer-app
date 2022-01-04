@@ -47,3 +47,8 @@ body
    color: #fff;
    text-decoration: none;
  }
+
+ #captured_img{
+     width: 350px;
+     height: 300px;
+ }
