@@ -8,7 +8,7 @@ Webcam.set({
 
 Webcam.attach('#camera');
 function takeSnapShot(){
-    Webcam.snap(function(data_uri){document.getElementById("captured_img").src=data_uri})
+    Webcam.snap(function(data_uri){document.getElementById("captured_img").src = data_uri})
 }
 
 console.log("ml5 Version",ml5.version);
