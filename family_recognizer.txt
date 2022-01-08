@@ -1,0 +1,1 @@
+teachablemachine.withgoogle.com/models/A33if_EOV/
